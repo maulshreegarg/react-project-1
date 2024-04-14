@@ -6,9 +6,10 @@ function App() {
   return (
    
    <>
-   <Navbar/>
+
+   <Navbar title="textUtils" aboutText="About Us"/>
    </>
-  );
+  )
 }
 
 export default App;
